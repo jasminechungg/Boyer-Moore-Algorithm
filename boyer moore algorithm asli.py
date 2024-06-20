@@ -142,14 +142,6 @@ pattern = "gh"
 print(boyer_moore(text, pattern))
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
